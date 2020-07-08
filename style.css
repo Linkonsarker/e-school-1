@@ -252,6 +252,11 @@ img {
 .testimonial-content .text p {
 	margin: 0;
 }
+.testi-style{
+	border-radius: 50px;
+	box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.034);
+}
+
 
 .news-area{
 
